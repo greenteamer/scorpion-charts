@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Charts
 
 @main
 struct ScorpionChartApp: App {
